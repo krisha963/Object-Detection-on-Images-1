@@ -1,0 +1,21 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+.heading{
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+    padding: 10px;
+}
+button{
+    width: 300px;
+    border-radius: 20px;
+    margin: 30px;
+    padding: 5px;
+    display: block;
+}
+canvas{
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+}
